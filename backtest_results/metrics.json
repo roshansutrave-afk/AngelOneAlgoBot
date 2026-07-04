@@ -1,0 +1,12 @@
+{
+  "total_return_pct": -0.07,
+  "cagr_pct": -0.1,
+  "sharpe_ratio": -0.011,
+  "max_drawdown_pct": -1.24,
+  "num_trades": 4,
+  "win_rate_pct": 75.0,
+  "profit_factor": 1.867,
+  "avg_win": 62.26,
+  "avg_loss": -100.06,
+  "final_equity": 99926.74
+}

@@ -1,0 +1,2 @@
+timestamp,symbol,action,quantity,price,commission,realized_pnl,position_after,order_id
+2026-06-21T19:13:34.357860,SBIN-EQ,BUY,1,1036.5180,20.0000,0.0000,1,PAPER-20260621191334

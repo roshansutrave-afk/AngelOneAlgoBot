@@ -1,0 +1,17 @@
+.env 
+__pycache__/ 
+.env 
+__pycache__/ 
+.env 
+__pycache__/ 
+logs/ 
+scan_results/ 
+logs/ 
+scan_results/ 
+logs/ 
+scan_results/ 
+deploy.bat 
+.env 
+logs/ 
+scan_results/ 
+deploy.bat 
