@@ -15,3 +15,5 @@ deploy.bat
 logs/ 
 scan_results/ 
 deploy.bat 
+logs/ 
+scan_results/ 
